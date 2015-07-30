@@ -1,0 +1,7 @@
+<suite name="PageObjModTest">
+	<test name="POMT">
+		<classes>
+			<class name="testFiles.HomePageTest"/>
+		</classes>
+	</test>
+</suite>
